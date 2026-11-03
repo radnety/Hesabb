@@ -1,0 +1,6 @@
+{
+  "name": "ماشین حساب هوشمند پیشرفته | Advanced Calculator",
+  "description": "یک وب‌اپلیکیشن ماشین حساب مدرن، قدرتمند و چندکاره با حالت‌های استاندارد، علمی، تبدیل واحد و محاسبات مالی با رابط کاربری فارسی و انگلیسی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
